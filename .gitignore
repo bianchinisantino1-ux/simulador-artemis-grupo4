@@ -1,0 +1,5 @@
+*.o
+*.exe
+simulador_artemis
+.vscode/
+.DS_Store
