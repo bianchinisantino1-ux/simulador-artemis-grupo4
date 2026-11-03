@@ -1,7 +1,7 @@
 #ifndef ARTEMIS_H
 #define ARTEMIS_H
 
-#define GRAVEDAD 9.80
+#define GRAVEDAD 9.801
 
 typedef struct {
     double masa_kg;             // 10400.0 kg
