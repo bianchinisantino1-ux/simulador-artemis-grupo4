@@ -11,7 +11,6 @@
 * **Ponce**, Marcos Lautaro
 * **San Vicente**, María Juliana
 
-
 ---
 
 ## Descripción del Problema
