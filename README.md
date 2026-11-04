@@ -38,3 +38,4 @@ artemis_simulador/
 ├── .gitignore            # Filtro de archivos binarios y temporales
 ├── Makefile              # Script de automatización de compilación
 └── README.md             # Documentación del proyecto
+
