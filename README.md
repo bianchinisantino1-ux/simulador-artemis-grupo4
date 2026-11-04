@@ -39,3 +39,16 @@ artemis_simulador/
 ├── Makefile              # Script de automatización de compilación
 └── README.md             # Documentación del proyecto
 
+# Compilación y Ejecución
+  Opción 1: Utilizando Makefile
+    make
+    ./simulador_artemis
+  
+  Opción 2: Compilación directa con GCC
+    gcc -Wall -Wextra -std=c99 -Iinclude src/main.c src/artemis.c src/validaciones.c -o simulador_artemis -lm
+    ./simulador_artemis
+
+# Declaración Transparente del Uso de Inteligencia Artificial
+En cumplimiento con los lineamientos del trabajo práctico sobre el uso de herramientas de IA:
+  * Herramientas utilizadas: Asistencia interactiva mediante Large Language Models (LLMs).
+  *  Alcance de la interacción:
