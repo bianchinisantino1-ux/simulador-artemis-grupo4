@@ -42,8 +42,7 @@ artemis_simulador/
 
 ## Compilación y Ejecución
 * Opción 1: Utilizando Makefile
-* **make
-./simulador_artemis**
+* **./simulador_artemis**
 
 * Opción 2: Compilación directa con GCC
 * **gcc -Wall -Wextra -std=c99 -Iinclude src/main.c src/artemis.c src/validaciones.c -o simulador_artemis -lm
@@ -53,7 +52,7 @@ artemis_simulador/
 En cumplimiento con los lineamientos del trabajo práctico sobre el uso de herramientas de IA:
 * **Herramientas utilizadas:** Asistencia interactiva mediante Large Language Models (LLMs).
 * **Alcance de la interacción:**
-* * Estructuración inicial de la arquitectura modular de archivos (.h / .c) y confección del Makefile.
+  * Estructuración inicial de la arquitectura modular de archivos (.h / .c) y confección del Makefile.
   * Asistencia en el manejo defensivo del búfer de entrada en C (scanf y getchar) para prevenir bucles infinitos.
   * Formateo y revisión de la documentación en sintaxis Markdown.
 * **Verificación humana:** Todas las ecuaciones físicas (Trabajo-Energía, cálculo de cargas g), la lógica de control del menú y la depuración final de errores de compilación fueron analizadas, verificadas y probadas manualmente por el equipo de desarrollo.
